@@ -31,5 +31,4 @@ The IPython Notebook contains the researches on influences of different sampling
 
 ## Sample Results
 
-The bar graph will pop up at the end of the block.
 ![](./SampleResults.png)
